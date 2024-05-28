@@ -1,6 +1,6 @@
 # SaneQL-to-SQL-compiler-conversion-using-lex-and-yacc
 
-This project is a SaneQL (a simplified SQL-like query language) to MySQL converter implemented using Yacc and Lex. It allows users to convert SaneQL queries into equivalent MySQL queries.
+This project is a SaneQL (a simple and Expressive Query Language) to MySQL converter implemented using Yacc and Lex. It allows users to convert SaneQL queries into equivalent MySQL queries. The code is limited to specific SaneQl queries and can be modified to include more.
 
 ## Table of Contents
 
